@@ -11,4 +11,4 @@ app.get('/test', (req, res) => {
 	res.send('Node js response')
 })
 
-app.listen(8000, () => console.log('App is running on 4000'))
+app.listen(8000, () => console.log('App is running on 192.168.0.66'))
